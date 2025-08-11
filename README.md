@@ -1,5 +1,5 @@
 # Bisign2Bikey
-Extracts the BI key from BI signature files for DayZ and ArmA titles, currently tested with Bohemia Interactive's version 2 and 3 signatures. 
+Extracts the BI key from BI signature files for DayZ and Arma titles, currently tested with Bohemia Interactive's version 2 and 3 signatures. 
 
 # Usage
 There are various ways to use Bisign2Bikey, any of the following will produce a 'Keys' folder directory that Bisign2Bikey resides in. Can be run unattended without pausing, by adding `/s` as the very last argument.
